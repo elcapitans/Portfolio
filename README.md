@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 # Portfolio
 portfolio page to showcase my work
-=======
-# portfolio
+
+
 
 ## Project setup
 ```
@@ -26,4 +26,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 2a619d6 (init)
+
